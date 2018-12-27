@@ -1,0 +1,67 @@
+no attendence
+	possible suprise assignments if attendence is too low
+similar exams between quarters
+
+work with others to compare answers and talk about it
+	probably should work them for a few hours alone first
+
+NO LAPTOPS
+
+###########################################################
+Computer Science
+is it a science?
+what is a science?
+	scientific method
+		hypothesis - "educated guess"
+		experimentation - try and prove hypothesis false
+		becomes a theory - best understanding of something
+	    extremely weak tool
+	Mike's Definition of science
+		Science is the process of creating analyzing, and revising abstract models of reality
+		which are used to explain past and present observations and predict future events
+
+3 models of computing
+	Finite Automata
+		Finite number of states
+		can actually exist
+	Pushdown Automata
+		Finite Automata + 1 stack
+			stack is infinite
+	Turing Machines
+		Finite Automata + a tape of infinite length
+			"infinite memory"
+true/false
+cause/effect
+	cant actually show cause and effect can only show correlation
+
+this class
+Linguistics
+	syntax of language
+	Noam Chomsky
+		context free grammar
+	BNF - Syntax for language
+Nural Nets - regular expressions
+Mathematics
+
+David Hilbert
+	1862-1943
+	algarithms
+Kurt Godel 
+	1906-1978
+	1: no algorithm can produce proofs for all true statements
+	2: not all true statements have a proof
+		either some true things can't be proven, or some false things can be proven true
+^^^^Chapter 1^^^^^^
+-------------------
+\/\/Chapter 2\/\/\/
+
+Formal Languages
+Regular Languages and equivalence to finite automata
+
+proof->!faith
+!faith -> !god
+
+fish->proof
+
+therfore fish->!god
+
